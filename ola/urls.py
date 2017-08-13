@@ -17,5 +17,5 @@ from django.conf.urls import url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^aquerius/', admin.site.urls),
+    url(r'^aquarius/', admin.site.urls),
 ]
